@@ -18,10 +18,6 @@ class StoryPage extends StatefulWidget {
   _StoryPageState createState() => _StoryPageState();
 }
 
-//String storyText = storyBrain.getStory();
-//String choice1ButtonText = storyBrain.getChoice1();
-//String choice2ButtonText = storyBrain.getChoice2();
-
 class _StoryPageState extends State<StoryPage> {
   @override
   Widget build(BuildContext context) {
